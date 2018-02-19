@@ -5,6 +5,8 @@
   background-position: center;
   color: white;
   position: relative;
+  margin-bottom: 30px;
+  border-radius: 3px;
 }
 .card-user {
   position: absolute;
@@ -47,6 +49,7 @@
   }
 }
 .wrapper {
-  background-color: #D23333;
+  background-color: $red;
   padding-bottom: 30px;
+  color: white;
 }
